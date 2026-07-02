@@ -1,4 +1,4 @@
-# Dermatological Manifestation Detection Using Machine Learning (SIH)
+# Dermatological Manifestation Detection 
 
 An AI-powered skin disease detection system developed as part of the
 **Smart BU Internal Hackathon** for the **Smart India Hackathon (SIH)
